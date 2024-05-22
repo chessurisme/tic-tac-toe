@@ -1,0 +1,27 @@
+{
+	"name": "tic-tac-toe",
+	"version": "1.0.0",
+	"description": "Rage your X's and O's",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest",
+		"build": "rollup --config"
+	},
+	"keywords": [
+		"game-board",
+		"board",
+		"x's",
+		"and",
+		"o's",
+		"strategy"
+	],
+	"author": "Chessurisme",
+	"license": "MIT",
+	"dependencies": {
+		"jest": "^29.7.0",
+		"lucide": "^0.379.0"
+	},
+	"devDependencies": {
+		"rollup-plugin-import-css": "^3.5.0"
+	}
+}
